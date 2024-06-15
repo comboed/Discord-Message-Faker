@@ -1,6 +1,5 @@
 **WARNING**
-
-This tool is for educational and learning purposes.
+* This tool is for educational and learning purposes.
 
 **Usage**
 * Open `var.py` and replace the following:
@@ -14,5 +13,4 @@ This tool is for educational and learning purposes.
 * Image generation will take about 5-15 seconds.
 
 **DISCLAIMER**
-
-This should not be used for anything malicious except for messing around with friends.
+* This should not be used for anything malicious except for messing around with friends.
